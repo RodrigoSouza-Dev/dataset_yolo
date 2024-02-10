@@ -4,7 +4,7 @@ O COCO (Common Objects in Context) Dataset é um conjunto de dados amplamente ut
 As imagens no COCO Dataset abrangem uma ampla variedade de cenários e contextos, incluindo objetos em diferentes poses, escalas e condições de iluminação, o que o torna um conjunto de dados desafiador e adequado para o treinamento de modelos de visão computacional.
 Os dados do COCO Dataset estão disponíveis publicamente para download e incluem imagens de treinamento, validação e teste, juntamente com arquivos de anotação no formato JSON que especificam as categorias de objetos presentes em cada imagem, bem como suas localizações e formas.
 
-#YOLO (You Only Look Once):
+# YOLO (You Only Look Once):
 
 YOLO é um framework de detecção de objetos em tempo real, conhecido por sua capacidade de realizar detecções rápidas e precisas em imagens e vídeos.
 A abordagem do YOLO é única, pois trata a detecção de objetos como um problema de regressão, onde um único modelo de rede neural é treinado para prever as coordenadas das caixas delimitadoras dos objetos, juntamente com as probabilidades das classes dos objetos presentes na imagem.
